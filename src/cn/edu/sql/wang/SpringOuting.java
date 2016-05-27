@@ -8,7 +8,8 @@ import javax.swing.*;
  */
 public class SpringOuting extends JFrame implements Runnable {
 
-    JFrame signIn;
+    JFrame signInForm;
+    JFrame queryForm;
 
 
     @Override
